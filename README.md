@@ -1,20 +1,7 @@
 ## Hi, I'm Vy 👋 
-*(pronounced as "Vee")*
 
-```sql
-SELECT
-    education,
-    specializations,
-    fun_fact,
-FROM 
-    vy_tran
+- My name is pronounced as `Vee`
+- I'm a 2nd-year Statistics student @ University of Waterloo
+- ELT Pipeline, Data Warehousing, Statistical Modeling
+- I love dogs, poker, and ice cream (hence my Mac is named `MacSundae`)
 
-/* 
-OUTPUT:
-------------------------------------------------------------------------------------------
-education       | Statistics @ University of Waterloo
-specializations | {"ELT Pipeline", "Data Warehousing", "Statistical Modeling"}
-fun_fact        | I love dogs, poker, and ice cream (hence my Mac is named `MacSundae`)
-------------------------------------------------------------------------------------------
-*/
-```
