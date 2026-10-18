@@ -1,5 +1,5 @@
 ## Hi, I'm Vy 👋 
-*(pronounces as "Vee")*
+*(pronounced as "Vee")*
 
 ```sql
 SELECT 
@@ -7,7 +7,6 @@ SELECT
     education,
     specializations,
     fun_fact,
-    contact_me
 FROM 
     vy_tran
 
@@ -18,9 +17,12 @@ name            | Vy Tran
 education       | Statistics @ University of Waterloo
 specializations | {"ELT Pipeline", "Data Warehousing", "Statistical Modeling"}
 fun_fact        | I love dogs, poker, and ice cream (hence my Mac is named `MacSundae`)
-contact_me      | {"LinkedIn": "https://www.linkedin.com/in/vp2tran/", "Email": "vp2tran@uwaterloo.ca"}
 ------------------------------------------------------------------------------------------
 */
 ```
+
+## Let's Connect!
+* **LinkedIn:** [://linkedin.com](https://www.linkedin.com/in/vp2tran/)
+* **Email:** [your.email@uwaterloo.ca](mailto:vp2tran@uwaterloo.ca)
 
 
