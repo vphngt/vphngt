@@ -1,4 +1,4 @@
-## Hi, I'm Vy 👋 *pronounced as 'Vee'*
+## Hi, I'm Vy 👋 
 
 - 2nd-year Statistics student
 - Currently focusing on more Cloud Data Warehousing and some front-end dev
