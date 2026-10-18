@@ -1,7 +1,6 @@
 ## Hi, I'm Vy 👋 
 
-- My name is pronounced as `Vee`
-- 2nd-year Statistics student @ University of Waterloo
+- 2nd-year Statistics student
 - Currently focusing on more Cloud Data Warehousing and some front-end dev
-- Love documentaries, poker, and badminton (though I'm terrible at it)
-
+- Love documentaries and poker! (could play poker all day 🃏)
+*my name is pronounced as `Vee`*
