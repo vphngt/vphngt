@@ -1,6 +1,6 @@
 ## Hi, I'm Vy 👋 
 
 - 2nd-year Statistics student
-- Currently focusing on more Cloud Data Warehousing and some front-end dev
+- Currently exploring more Cloud Data Warehousing and some front-end dev
 - Love documentaries and poker! (could play poker all day 🃏)
-- Have a Duolingo French streak
+Check out my projects below <3
