@@ -1,7 +1,8 @@
 ## Hi, I'm Vy 👋 
 
-- My name is pronounced as `Vee`
 - I'm a 2nd-year Statistics student @ University of Waterloo
-- ELT Pipeline, Data Warehousing, Statistical Modeling
-- I love dogs, poker, and ice cream (hence my Mac is named `MacSundae`)
+- I do ELT Pipeline, Data Warehousing, Statistical Modeling in Python/R and SQL
+- I love documentaries, poker, and badminton (though I'm terrible at it)
+- My name is pronounced as `Vee`
+
 
